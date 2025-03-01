@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/42fa468c-2f90-4333-8136-2a572c5b4e1c)
+
 MyWebServer
 ---
 
@@ -49,9 +51,9 @@ main()
   return 0;
 }
 ```
+<br>
 
 General flow:
-
 ```
 Server.run()
 listener_.acceptConnection()
