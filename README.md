@@ -64,3 +64,10 @@ HttpParser::parse(...)
 Router::route(...)
 TcpConnection::sendData(...)
 ```
+
+To do
+---
+
+- [ ] Request logging
+- [ ] Static file serving
+- [ ] Middleware support
