@@ -2,6 +2,7 @@
 
 MyWebServer
 ---
+MyWebServer is an C++ library that provides a modular framework for building basic HTTP servers, emphasizing design clarity, separation of responsibilities, and extensibility.
 
 The library follows a layered architecture:
 ```
@@ -24,6 +25,7 @@ The library follows a layered architecture:
 
 Example
 ---
+<img src="https://i.pinimg.com/736x/b3/ee/1c/b3ee1cadb45f6e56f9113eff4ffcde0f.jpg" width="25%" align="right" />
 
 ```cpp
 #include "mweb/core.hpp"
