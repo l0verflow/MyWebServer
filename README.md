@@ -25,7 +25,7 @@ The library follows a layered architecture:
 
 Example
 ---
-<img src="https://i.pinimg.com/736x/b3/ee/1c/b3ee1cadb45f6e56f9113eff4ffcde0f.jpg" width="25%" align="right" />
+<img src="https://github.com/user-attachments/assets/1fa25087-b539-41af-b451-428cb3e801aa" width="25%" align="right" />
 
 ```cpp
 #include "mweb/core.hpp"
